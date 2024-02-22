@@ -1,4 +1,4 @@
-# Install--> [Releases](https://github.com/CodingGru01/Discord-Server-Cloner/releases/download/Major-Windows/Discord-Server-Cloner.exe) 
+# Install--> [Releases](https://github.com/CodingGru01/Discord-Server-Cloner/releases/tag/Major-Windows) 
 <h1 align="center">
   Discord-Server-Cloner
 </h1>
